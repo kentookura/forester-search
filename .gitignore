@@ -1,0 +1,6 @@
+/target
+.direnv/
+build/
+index/
+output/
+trees/
